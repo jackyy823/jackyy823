@@ -1,4 +1,8 @@
-### Hi there 👋
+### HIII, I'm Jacky! 👋
+
+Currently a Data Science and Artificial Intelligence student at Nanyang Technological University.
+
+- New GitHub account, more stuffs will be added in the future! ✨
 
 <!--
 **jackyy823/jackyy823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
