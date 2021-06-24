@@ -7,6 +7,9 @@ Currently a Data Science and Artificial Intelligence student at Nanyang Technolo
 
 Exploring various interests outside of school such as Web Development.
 
+Portfolio (Work in Progress):
+https://jackyy823.github.io/CV/
+
 <!--
 **jackyy823/jackyy823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
