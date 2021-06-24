@@ -1,9 +1,11 @@
-### HIII, I'm Jacky! 👋
+### Hello! I'm Jacky! 👋
 
 Currently a Data Science and Artificial Intelligence student at Nanyang Technological University.
 
 - Enjoy playing basketball 🏀, running 🏃🏻‍♂️, and hiking 🏞.
 - New GitHub account, more stuffs will be added in the future! ✨
+
+Exploring various interests outside of school such as Web Development.
 
 <!--
 **jackyy823/jackyy823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
