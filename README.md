@@ -5,6 +5,7 @@ Currently a Data Science and Artificial Intelligence student at Nanyang Technolo
 - Enjoy playing basketball 🏀, running 🏃🏻‍♂️, and hiking 🏞.
 
 Exploring various interests outside of school such as Web Development.
+Feel free to reach out for collaborations on projects!
 
 Portfolio:
 https://jackyy823.github.io/CV/
