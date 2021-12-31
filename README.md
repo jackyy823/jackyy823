@@ -3,7 +3,6 @@
 Currently a Data Science and Artificial Intelligence student at Nanyang Technological University.
 
 - Enjoy playing basketball 🏀, running 🏃🏻‍♂️, and hiking 🏞.
-- New GitHub account, more stuffs will be added in the future! ✨
 
 Exploring various interests outside of school such as Web Development.
 
