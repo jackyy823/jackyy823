@@ -1,13 +1,11 @@
 ### Hello! I'm Jacky! 👋
 
-Currently a Data Science and Artificial Intelligence student at Nanyang Technological University.
+Currently a Data Scientist working in AMD.
 
-- Enjoy playing basketball 🏀, running 🏃🏻‍♂️, and hiking 🏞.
-
-Exploring various interests outside of school such as Web Development and App Development. <br>
+I enjoy running 🏃🏻‍♂️, hiking 🏞, and trying new sports 🏋️.
 
 Portfolio:
-https://jackyy823.github.io/CV/
+<Under Development>
 
 <!--
 **jackyy823/jackyy823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
