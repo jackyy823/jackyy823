@@ -4,8 +4,9 @@ I'm a **Data Scientist at AMD**, based in Singapore 🇸🇬. I spend my days on
 
 #### 🛠️ What I work with
 
-**Language**<br>
+**Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
 **Data platforms**<br>
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
