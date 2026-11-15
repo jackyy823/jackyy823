@@ -1,6 +1,6 @@
 ### Hi, I'm Jacky! 👋
 
-I'm a **Data Scientist at AMD**, based in Singapore 🇸🇬. I spend my days on the full data science loop: exploring and cleaning messy data, building ML models, and shipping them to production through MLOps pipelines and APIs. More recently I've been working on deep learning and agentic AI. Outside work I like tinkering on side projects (more to share soon).
+I'm a **Data Scientist at AMD**, based in Singapore 🇸🇬. I spend my days on the full data science loop: exploring and cleaning messy data, building ML models, and shipping them to production through MLOps pipelines and APIs. More recently I've been working on deep learning and agentic AI. Outside work I like tinkering on side projects!
 
 #### 🛠️ What I work with
 
@@ -27,7 +27,7 @@ I'm a **Data Scientist at AMD**, based in Singapore 🇸🇬. I spend my days on
 
 #### 🌱 Away from the keyboard
 
-I enjoy running 🏃🏻‍♂️, bouldering 🧗🏻‍♂️, snowboarding 🏂🏻, and trying new sports 🏋️.
+I enjoy running 🏃🏻‍♂️, bouldering 🧗🏻‍♂️, snowboarding 🏂🏻, and trying new sports 🏋️!
 
 #### 📫 Find me
 
